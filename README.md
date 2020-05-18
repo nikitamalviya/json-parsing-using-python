@@ -13,10 +13,11 @@ In this repository, I have covered the following JSON file operations :
 
 ## Files
 
-* json_parsing_using_python.ipynb
+```json_parsing_using_python.ipynb```
 - This Jupyter notebook contains the JSON operations mentioned above.
 
-* sample.json :
+
+```sample.json :```
 - This is the sample file created to execute mentioned operations.
 
 
