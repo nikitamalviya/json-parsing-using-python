@@ -1,0 +1,20 @@
+{
+    "users_detail": [
+        {
+            "user_name": "Nikita",
+            "age": 22
+        },
+        {
+            "user_name": "Chinu",
+            "age": 8
+        },
+        {
+            "user_name": "Geetika",
+            "age": 15
+        },
+        {
+            "user_name": "Noor",
+            "age": 23
+        }
+    ]
+} 
